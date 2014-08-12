@@ -10,6 +10,8 @@ Unfortunately I don't know how to work with every frameworks (impossibru !) so I
 
 You have to create a blog app using the HTML samples inside the HTML directory : [HTML demo](https://rawgithub.com/Grafikart/blogmvc/master/HTML/index.html). The app is quite simple, you can manage posts, browse posts, and submit new comments (the goal is not to create a fully featured blog, but just a sample of code)
 
+TEST commit
+
 ### Database structure
 
 You have to use the same structure as [dump.sql](https://raw.github.com/Grafikart/blogmvc/master/dump.sql). You can rename table and fields depending of your Framework conventions and you can even use migrations if your framework support it.
